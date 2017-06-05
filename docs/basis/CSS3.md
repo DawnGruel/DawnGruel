@@ -1,6 +1,6 @@
 # CSS
 
-![Css3img](/images/Css3img.jpeg)
+![Css3img](images/Css3img.jpeg)
 
 ## css基础知识
 
