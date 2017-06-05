@@ -1,6 +1,6 @@
 # 前端资料规整（Dylan）
 
-![indeximages](images/indexbackground.jpeg)
+![indeximages](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/indexbackground.jpeg)
 
 ### 关于文档的标注
 
