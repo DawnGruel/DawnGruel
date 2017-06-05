@@ -1,6 +1,6 @@
 # 上海蚁链网络科技有限公司
 
-![indeximages](/images/indexbackground.jpeg)
+![indeximages](docs/images/indexbackground.jpeg)
 
 ## 技术文档
 
