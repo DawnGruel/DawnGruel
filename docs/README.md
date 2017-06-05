@@ -1,8 +1,6 @@
-# 上海蚁链网络科技有限公司
-
 ![indeximages](images/indexbackground.jpeg)
 
-## 技术文档
+### 前端资料规整（Dylan）
 
 ### 关于文档的标注
 
