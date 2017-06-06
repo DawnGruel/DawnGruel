@@ -1,6 +1,6 @@
 # CSS
 
-![Css3img](images/Css3img.jpeg)
+![Css3img](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/Css3img.jpeg)
 
 ## css基础知识
 
@@ -12,7 +12,7 @@
 >在一个文档中，每个元素都被表示为一个矩形的盒子。确定尺寸, 属性 --- 像它的颜色，背景，边框方面 --- 和这些盒子的位置是渲染引擎的目标。<br/><br/>
 在CSS中，使用标准盒模型描述这些矩形盒子中的每一个。这个模型描述了元素所占空间的内容。每个盒子有四个边：外边距边, 边框边, 内填充边 与 内容边。
 
-![boximg1](/images/boximg1.png)  
+![boximg1](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/boximg1.png)  
 
 >内容区域content area 是包含元素真实内容的区域。它通常包含背景、颜色或者图片等，位于内容边界的内部，它的大小为内容宽度 或 content-box宽及内容高度或content-box高。
 
@@ -34,11 +34,11 @@
 
 ## 布局相关
 
-![img2](/images/UfUNVjm.png)
+![img2](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/UfUNVjm.png)
 
 ### 传统布局
 
-![cssbox](/images/cssbox.gif)
+![cssbox](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/cssbox.gif)
 
 #### 静态布局（Static Layout）
 
@@ -63,7 +63,7 @@
 
 [FlexBox兼容性查看](http://caniuse.com/#search=flex)  
 
-![flexbox](/images/flexbox.png)
+![flexbox](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/flexbox.png)
 
 >Flex 是 Flexible Box 的缩写，意为"弹性布局"，用来为盒状模型提供最大的灵活性。  
 >任何一个容器都可以指定为 Flex 布局。
@@ -94,7 +94,7 @@
 
 >采用 Flex 布局的元素，称为 Flex 容器（flex container），简称"容器"。它的所有子元素自动成为容器成员，称为 Flex 项目（flex item），简称"项目"。
 
-![img1](/images/bg2015071004.png)
+![img1](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071004.png)
 
 >容器默认存在两根轴：水平的主轴（main axis）和垂直的交叉轴（cross axis）。主轴的开始位置（与边框的交叉点）叫做main start，结束位置叫做main end；交叉轴的开始位置叫做cross start，结束位置叫做cross end。
 
@@ -113,7 +113,7 @@
 }
 ```
 
-![img2](/images/bg2015071005.png)
+![img2](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071005.png)
 
 <p class="warning">
 row（默认值）：主轴为水平方向，起点在左端。  
@@ -125,7 +125,7 @@ column-reverse：主轴为垂直方向，起点在下沿。
 ##### flex-wrap（换行方式）
 >默认情况下，项目都排在一条线（又称"轴线"）上。flex-wrap属性定义，如果一条轴线排不下，如何换行。
 
-![img3](/images/bg2015071006.png)
+![img3](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071006.png)
 
 ```
 .box{
@@ -135,15 +135,15 @@ column-reverse：主轴为垂直方向，起点在下沿。
 
 >（1）nowrap（默认）：不换行。
 
-![img4](/images/bg2015071007.png)
+![img4](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071007.png)
 
 >（2）wrap：换行，第一行在上方。
 
-![img5](/images/bg2015071008.jpg)
+![img5](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071008.jpg)
 
 >（3）wrap-reverse：换行，第一行在下方。
 
-![img6](/images/bg2015071009.jpg)
+![img6](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071009.jpg)
 ##### flex-flow（前两个的简写法）
 >flex-flow属性是flex-direction属性和flex-wrap属性的简写形式，默认值为row nowrap。
 
@@ -165,7 +165,7 @@ column-reverse：主轴为垂直方向，起点在下沿。
 }
 ```
 
-![img7](/images/bg2015071010.png)
+![img7](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071010.png)
 
 <p class="warning">
 flex-start（默认值）：左对齐。  
@@ -184,7 +184,7 @@ space-around：每个项目两侧的间隔相等。所以，项目之间的间�
 }
 ```
 
-![img8](/images/bg2015071011.png)
+![img8](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071011.png)
 
 <p class="warning">
 flex-start：交叉轴的起点对齐。  
@@ -203,7 +203,7 @@ stretch（默认值）：如果项目未设置高度或设为auto，将占满整
 }
 ```
 
-![img12](/images/bg2015071012.png)
+![img12](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071012.png)
 
 <p class="warning">
 flex-start：与交叉轴的起点对齐。  
@@ -225,7 +225,7 @@ stretch（默认值）：轴线占满整个交叉轴。
 }
 ```
 
-![img13](/images/bg2015071013.png)
+![img13](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071013.png)
 
 ##### flex-grow（放大比例）
 >flex-grow属性定义项目的放大比例，默认为0，即如果存在剩余空间，也不放大。
@@ -236,7 +236,7 @@ stretch（默认值）：轴线占满整个交叉轴。
 }
 ```
 
-![img14](/images/bg2015071014.png)
+![img14](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071014.png)
 
 <p class="warning">
 如果所有项目的flex-grow属性都为1，则它们将等分剩余空间（如果有的话）。  
@@ -252,7 +252,7 @@ stretch（默认值）：轴线占满整个交叉轴。
 }
 ```
 
-![img15](/images/bg2015071015.jpg)
+![img15](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071015.jpg)
 
 <p class="warning">
 如果所有项目的flex-shrink属性都为1，当空间不足时，都将等比例缩小。  
@@ -291,7 +291,7 @@ stretch（默认值）：轴线占满整个交叉轴。
 }
 ```
 
-![img16](/images/bg2015071016.png)
+![img16](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/bg2015071016.png)
 
 >该属性可能取6个值，除了auto，其他都与align-items属性完全一致。
 
@@ -362,7 +362,7 @@ stretch（默认值）：如果项目未设置高度或设为auto，将占满整
 
 下面的动图是使用@Mirza Joldic写的 [CSS Grid Playground](https://www.cssgridplayground.com/) 小工具。我们也主要通过这款小工具来掌握Grid：
 
-![GridGif](/images/GridGif.gif)
+![GridGif](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif.gif)
 
 ##### 基础属性
 
@@ -375,11 +375,11 @@ stretch（默认值）：如果项目未设置高度或设为auto，将占满整
 
 >比如一个这样的HTML结构：
 
-![GridImg1](/images/GridImg1.png)
+![GridImg1](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridImg1.png)
 
 >使用 CSS Grid布局首要的第一步，就是通过 display:grid; 来对容器声明一个网格容器，那么这个 div 元素里面对应的子元素就自动成为网格项目。
 
-![GridGif1](/images/GridGif1.gif)
+![GridGif1](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif1.gif)
 
 >虽然你在 div.grid-container 中设置了 display:grid;，声明了这个元素为Grid容器，但在浏览器中，并看不到有任何的变化。但在在幕后中，他们还是发生了变化， div.grid-container 是一个Grid容器，在这里我们添加的子元素就自动变成了网格项目。
 
@@ -388,7 +388,7 @@ stretch（默认值）：如果项目未设置高度或设为auto，将占满整
 接下来，使用 grid-template-columns: 1fr 1fr 1fr; 来定义三列网格
 👇(此处有[*七个子元素*](javascript:;) )：
 
-![GridGif2](/images/GridGif2.gif)
+![GridGif2](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif2.gif)
 
 ###### 3.行的高度比(grid-template-rows)
 >指定行数，并对每行高度设值
@@ -397,7 +397,7 @@ stretch（默认值）：如果项目未设置高度或设为auto，将占满整
 >指定列（或行）的间距  
 
 从gif图中就明显的看出来，现在有点变化了，颜色块变小了，但很难区分出有何变化，为了让效果之间有更突出的差异，再给 .grid-container 中添加 grid-gap:5px ：
-![GridGif3](/images/GridGif3.gif)
+![GridGif3](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif3.gif)
 
 >看到变化了吧，整个网格分了三个列，单元格之间有 5px 的间距，同时每列的列宽是整个宽度的三分之一，那是因为我们采用了 fr 单位，而且把整个网格分成了三列，每列的宽度是 1fr 。
 
@@ -410,14 +410,14 @@ fr 可以自动根据网格容器的宽度来计算列的宽度
 
 >现在我们把 grid-template-columns 的值改成： 1fr 2fr 1fr ，对应的效果就会变成：
 
-![GridGif4](/images/GridGif4.gif)
+![GridGif4](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif4.gif)
 
 >现在第二列的宽度是第一列和最后一列的两倍。这也再次证明 fr 单位的强大之处，使用它可以让你很容易定义你的网格尺寸。
 
 ###### 5.跨列合并(grid-column)
 >现在越来越接近我们想要的网格。但需求是不断变化的，比如我们现在想让顶部的第一行尽可能的宽，比如说跨整个网格列。如此一来，只需要在第一个网格上使用 grid-column: 1 / 4 ：
 
-![GridGif5](/images/GridGif5.gif)
+![GridGif5](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif5.gif)
 
 
 
@@ -428,12 +428,12 @@ fr 可以自动根据网格容器的宽度来计算列的宽度
 ###### 6.跨行合并(grid-row)
 >接下来，我们想要有一个 300px 的侧边栏高度，并且让他的位置是垂直方向的 2 / 3 。我们可以使用 grid-row: 2 / 4 来实现，这个特性和 grid-column 非常的类似。这个时候，效果变成这样：
 
-![GridGif6](/images/GridGif6.gif)
+![GridGif6](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif6.gif)
 
 ###### 7.合并单元格(span)
 >其实CSS Grid看上去和表格非常的类似，在表格中我们有一个专业的术语，合并单元格。其实在CSS Grid布局中，我们同样有一个类似的特性，那就是在 grid-column 或者 grid-row 中引入关键词 span ，在关键词 span 后面紧跟一个数值，就是表示合并单元格的数量，先来看下图：
 
-![GridGif7](/images/GridGif7.gif)
+![GridGif7](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif7.gif)
 
 >上面的示例中，我们使用到了 grid-column: 2 / span 1 和 grid-row: 2 / span 2 。其中 grid-column: 2 / span 1 表示从列网格线 2 开始，跨度是 1 个列网格线（其实就是合并一个列单元格）。而 grid-row: 2 / span 2 表示的是从行网格线 2 开始，跨度是两个两个线（其实就是合并两个行单元格）。
 
@@ -442,12 +442,12 @@ fr 可以自动根据网格容器的宽度来计算列的宽度
 当然，除了这种方式，还可以创建隐式网格线。除此之外，还可以使用 grid-auto-rows 和 grid-auto-columns 可以创建一个隐式网格。这个隐式网格对应的网格线就被称之为隐式网格线。  
 下图简单的展示了示例中的网格线示意图：
 
-![GridImg2](/images/GridImg2.png)
+![GridImg2](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridImg2.png)
 
 ###### 9.对齐模块特性(align-self)
 >通过上面的方式，我们可以轻易的控制网格，也能非常容易的实现一个Web面页的布局，比如一个三列的布局。但我们在布局中经常还需要控制对齐方式，特别是在CSS Grid的布局当中，比如下面的示例中，我们第三列并未占满整个高度，这个时候希望它能底部对齐。此时为了实现这样的效果，需要使用到CSS中的对齐模块特性，比如在这里，我们可以使用 align-self: end 来实现：
 
-![GridGif8](/images/GridGif8.gif)
+![GridGif8](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif8.gif)
 
 >align-self 是CSS中的一个新模块特性 [Box Alignment](https://www.w3.org/TR/css-align-3/) 中的一个属性。有关于这个模块的的功能还是非常的实用。@Rachel Andrew整理了一份 [Box Alignment Cheatsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment) ，里面详细介绍了Box Alignment的使用。简单的来讲，这个规范中有三个关键部分：
 
@@ -459,7 +459,7 @@ fr 可以自动根据网格容器的宽度来计算列的宽度
 
 如果你对上面的相关知识有所了解的话，你就可以很轻易的使用CSS Grid相关知识实现一个常用的Web页面布局效果。比如下面这张图，为了好完，我把主内容的容器设置了具体的宽度，并且通过Box Alignment属性，让这个区域水平垂直居中：
 
-![GridGif9](/images/GridGif9.gif)
+![GridGif9](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif9.gif)
 
 >整个题外话，虽然实现 [水平垂直居中的解决方案](http://www.w3cplus.com/blog/tags/357.html) 已有很多种了，但Box Alignment模块将是最佳方式。
 
