@@ -20,7 +20,7 @@ npm install -g babel-cli
 ```
 >生成一个默认的package.json文件，babel-test目录结构如下图所示：
 
-![Es6img1](/images/Es6img1.png)
+![Es6img1](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/Es6img1.png)
 
 >然后在当前目录执行下面这行命令安装ES6转码规则包：
 
@@ -44,7 +44,7 @@ babel es6/test.es6 --out-file js/test.js --presets es2015
 
 >这行命令的作用是对整个es6目录中的文件进行编译，编译结果输出到js目录，如下图所示： 
 
-![Es6img2](/images/Es6img2.png)
+![Es6img2](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/Es6img2.png)
 
 >到目前为止，我们仍手动执行babel命令编译源代码，并且我们使用了全局的babel-cli库，这显然不是最好的解决方案。如果我们checkout出一个项目，必须要先在全局安装babel-cli库才能运行，我们不希望有这样的依赖。另外不同的项目依赖库的版本可能都不同，全局的babel-cli库也不能保证兼容各个项目中其他依赖库的版本。除此之外，每次手动运行编译命令也太繁琐了，我们希望将babel-cli库安装到本地，并且使用一个简单的命令执行编译任务。 <br/><br/>
 
