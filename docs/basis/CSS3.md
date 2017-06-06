@@ -314,8 +314,6 @@ stretch（默认值）：如果项目未设置高度或设为auto，将占满整
 
 ### Grid布局
 
---
-
 [Grid兼容性查看](http://caniuse.com/#search=grid)
 
 #### 什么是CSS3 Grid布局
