@@ -32,6 +32,7 @@ var $config = {
      plugins: [
     docsearch({
       apiKey: '65360cf9a91d87cd455d2b286d0d89ee',
+        indexName: 'docs',
       url: 'https://dylan-wy.github.io/DawnGruel/docs'
     }),
   ]
