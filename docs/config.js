@@ -34,7 +34,7 @@ var $config = {
       apiKey: '65360cf9a91d87cd455d2b286d0d89ee',
       indexName: 'docute',
       tags: ['zh-Hans'],
-      url: 'https://docute.js.org'
+      url: 'https://dylan-wy.github.io/DawnGruel/docs'
     }),
   ]
 }
