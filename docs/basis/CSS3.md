@@ -1,6 +1,6 @@
 # CSS
 
-![Css3img](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/Css3img.jpeg)
+![Css3img](dylan-wy.github.io/DawnGruel/docs/images/Css3img.jpeg)
 
 ## css基础知识
 
