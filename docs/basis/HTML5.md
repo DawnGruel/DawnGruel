@@ -4,16 +4,16 @@
  	持续改动中！
 </p>
 
-![H5pic](/images/H5background.jpeg)
+![H5pic](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/H5background.jpeg)
 
 ### H5新增基础标签
 >比较：下面是传统的div+css的页面布局方式
 
-![oldHTML](/images/oldHTML.png)
+![oldHTML](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/oldHTML.png)
   
 >下面是HTML5布局方式
 
-![newHTML](/images/newHTML.png)  
+![newHTML](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/newHTML.png)  
 
 现在来说说图片中出现的标签：   
 
