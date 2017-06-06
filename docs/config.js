@@ -29,5 +29,14 @@ var $config = {
     // // 这个插件同时需要你的 URL
     // // 因为 docsearch 是按照你的线上 URL 抓取内容的
     // url: 'https://docute.js.org'
+     plugins: [
+    docsearch({
+      apiKey: '65360cf9a91d87cd455d2b286d0d89ee',
+      indexName: 'docute',
+      tags: ['english', 'zh-Hans', 'zh-Hant', 'ja'],
+      url: 'https://docute.js.org'
+    }),
+    evanyou()
+  ]
 }
 docute.init($config)
