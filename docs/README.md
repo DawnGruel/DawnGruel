@@ -1,4 +1,8 @@
-# 前端资料规整（Dylan）
+---
+sidebar: false
+---
+
+# 前端资料规整（Dylan)
 
 ![indeximages](https://raw.githubusercontent.com/Dylan-WY/DawnGruel/master/docs/images/indexbackground.jpeg)
 
@@ -13,7 +17,3 @@
 #### 以淡青色为底均为代码内容
 
 #### 以竖线开头均为正文
-
----
-sidebar: false
----
