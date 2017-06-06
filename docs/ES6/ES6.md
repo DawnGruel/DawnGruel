@@ -1,4 +1,4 @@
-![Es6BackgroundImg](/images/Es6BackgroundImg.jpg)
+![Es6BackgroundImg](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/Es6BackgroundImg.jpg)
 
 # 常用的ES6特性
 
