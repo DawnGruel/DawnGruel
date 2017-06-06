@@ -1,7 +1,7 @@
 ---
 sidebar: false
 ---
-disable sidebar for this page.
+用 front-matter 隐藏这个页面的侧边栏
 # 前端资料规整（Dylan)
 
 ![indeximages](https://raw.githubusercontent.com/Dylan-WY/DawnGruel/master/docs/images/indexbackground.jpeg)
