@@ -1,5 +1,5 @@
 ---
-sidebar: false
+sidebar: false;
 ---
 # 前端资料规整（Dylan)
 
