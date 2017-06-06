@@ -36,7 +36,6 @@ var $config = {
       tags: ['english', 'zh-Hans', 'zh-Hant', 'ja'],
       url: 'https://docute.js.org'
     }),
-    evanyou()
   ]
 }
 docute.init($config)
