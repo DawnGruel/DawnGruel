@@ -34,7 +34,7 @@ var $config = {
       apiKey: '65360cf9a91d87cd455d2b286d0d89ee',
         indexName: 'DawnGruel',
         tags:['ES6','basis','webpack'],
-      url: 'https://dylan-wy.github.io'
+      url: 'https://dylan-wy.github.io/DawnGruel/docs'
     }),
   ]
 }
