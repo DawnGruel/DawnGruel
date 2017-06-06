@@ -1,7 +1,3 @@
----
-sidebar: false
----
-
 # 前端资料规整（Dylan)
 
 ![indeximages](https://raw.githubusercontent.com/Dylan-WY/DawnGruel/master/docs/images/indexbackground.jpeg)
