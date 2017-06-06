@@ -440,12 +440,12 @@ fr 可以自动根据网格容器的宽度来计算列的宽度
 当然，除了这种方式，还可以创建隐式网格线。除此之外，还可以使用 grid-auto-rows 和 grid-auto-columns 可以创建一个隐式网格。这个隐式网格对应的网格线就被称之为隐式网格线。  
 下图简单的展示了示例中的网格线示意图：
 
-![GridImg2](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridImg2.png)
+![GridImg2](https://raw.githubusercontent.com/Dylan-WY/DawnGruel/master/docs/images/GridImg2.png)
 
 ###### 9.对齐模块特性(align-self)
 >通过上面的方式，我们可以轻易的控制网格，也能非常容易的实现一个Web面页的布局，比如一个三列的布局。但我们在布局中经常还需要控制对齐方式，特别是在CSS Grid的布局当中，比如下面的示例中，我们第三列并未占满整个高度，这个时候希望它能底部对齐。此时为了实现这样的效果，需要使用到CSS中的对齐模块特性，比如在这里，我们可以使用 align-self: end 来实现：
 
-![GridGif8](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif8.gif)
+![GridGif8](https://raw.githubusercontent.com/Dylan-WY/DawnGruel/master/docs/images/GridGif8.gif)
 
 >align-self 是CSS中的一个新模块特性 [Box Alignment](https://www.w3.org/TR/css-align-3/) 中的一个属性。有关于这个模块的的功能还是非常的实用。@Rachel Andrew整理了一份 [Box Alignment Cheatsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment) ，里面详细介绍了Box Alignment的使用。简单的来讲，这个规范中有三个关键部分：
 
@@ -457,7 +457,7 @@ fr 可以自动根据网格容器的宽度来计算列的宽度
 
 如果你对上面的相关知识有所了解的话，你就可以很轻易的使用CSS Grid相关知识实现一个常用的Web页面布局效果。比如下面这张图，为了好完，我把主内容的容器设置了具体的宽度，并且通过Box Alignment属性，让这个区域水平垂直居中：
 
-![GridGif9](https://github.com/Dylan-WY/DawnGruel/blob/master/docs/images/GridGif9.gif)
+![GridGif9](https://raw.githubusercontent.com/Dylan-WY/DawnGruel/master/docs/images/GridGif9.gif)
 
 >整个题外话，虽然实现 [水平垂直居中的解决方案](http://www.w3cplus.com/blog/tags/357.html) 已有很多种了，但Box Alignment模块将是最佳方式。
 
